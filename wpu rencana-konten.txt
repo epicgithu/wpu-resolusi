@@ -1,1 +1,4 @@
 RENCANA KONTEN
+
+-JAVASCRIPT 
+*membuat ES6
