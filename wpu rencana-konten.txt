@@ -2,4 +2,13 @@ RENCANA KONTEN
 
 -JAVASCRIPT 
 *membuat ES6
+*framework java script
+^ vue
+^ react
+- Struktur data dasar
+- PHP Frameworks
+^ Laravel
+-interview
+-vlogs
+-python
 
