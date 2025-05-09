@@ -2,4 +2,4 @@ RENCANA KONTEN
 
 -JAVASCRIPT 
 *membuat ES6
-- Struktur data dasar
+
